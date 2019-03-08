@@ -2,3 +2,4 @@ import Game, {GameSavingData, writeGameSaving as saveGame, readGameSaving as loa
 
 const game = new Game();
 game.start();
+export default Game;
